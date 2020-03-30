@@ -1,16 +1,12 @@
-# login_screen
+# Flutter Simple Login Screen Example #1
 
-A new Flutter project.
+<img src="./readme/img_1.jpg" alt="flutter Login"/>
 
-## Getting Started
+Youtube Video.
 
-This project is a starting point for a Flutter application.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BOjLTJ7VA1A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-A few resources to get you started if this is your first Flutter project:
+ 
+## Screenshot
+<img src="./readme/img_2.png" alt="flutter Login">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
